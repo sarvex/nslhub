@@ -18,7 +18,7 @@ class Footer extends StatelessWidget {
   Widget _desktop(BuildContext context) => Container(
      width: double.infinity,
       padding: EdgeInsets.all(Device.column(context)),
-      decoration: const BoxDecoration(color: NslHub.lifeBlackLight),
+      decoration: const BoxDecoration(color: Color(0xff323232)),
       child: Text('Copyright © 2020 Brane Enterprises Private Limited.', style: Theme.of(context).textTheme.subtitle2.copyWith(color: Colors.white)));
 
 }
