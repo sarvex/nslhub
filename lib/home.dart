@@ -26,25 +26,6 @@ class _MyHomePageState extends State<MyHomePage> {
         length: choices.length,
         child: Scaffold(
           appBar: AppBar(
-            elevation: 0,
-            leading: FlatButton(
-              child: Row(
-                children: [Icon(choices[0].icon), Text(choices[0].title)],
-              ),
-            ),
-            leadingWidth: 240,
-            actions: <Widget>[
-              FlatButton(
-                child: Row(
-                  children: [Icon(choices[9].icon), Text(choices[9].title)],
-                ),
-              ),
-              FlatButton(
-                child: Row(
-                  children: [Icon(choices[10].icon), Text(choices[10].title)],
-                ),
-              ),
-            ],
             bottom: TabBar(
               isScrollable: true,
               tabs: choices.map((Choice choice) {
@@ -90,7 +71,6 @@ const List<Choice> choices = const <Choice>[
   const Choice(title: 'About', icon: Icons.directions_bus, page: About()),
   const Choice(title: 'Careers', icon: Icons.directions_railway, page: Careers()),
   const Choice(title: 'Login', icon: Icons.directions_walk, page: Login()),
-  const Choice(title: 'Signup', icon: Icons.directions_walk, page: Login()),
 ];
 
 class ChoiceCard extends StatelessWidget {

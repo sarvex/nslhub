@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'NSL Hub',
       theme: ThemeData(
-        primarySwatch: Colors.orange,
+        primarySwatch: Colors.grey,
         visualDensity: VisualDensity.adaptivePlatformDensity,
         textTheme: GoogleFonts.poppinsTextTheme(Theme.of(context).textTheme),
       ),
