@@ -30,7 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   flutter_bloc: ^6.0.1
   flutter_svg: ^0.23.0
-  dio: ^3.0.10
+  dio: ^5.0.0
   google_fonts: ^1.1.0
   animated_text_kit: ^2.2.0
   responsive_widgets: ^2.0.1
