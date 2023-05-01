@@ -175,10 +175,10 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_svg
-      sha256: "57de6527271cd47884d93c37e6bc44c5a72fdbb2cbdce56eb38f8faef7140b63"
+      sha256: cbf529d563dd910a249041bde2a0dfc3cf62280fcc459b85f3d614b2ab73abb3
       url: "https://pub.dev"
     source: hosted
-    version: "0.18.1"
+    version: "0.23.0+1"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -289,18 +289,18 @@ packages:
     dependency: transitive
     description:
       name: path_drawing
-      sha256: b3dd74e2210b2b71be3d3098b956dbab853ee43a86918b4bc20c9b9bd49f03f3
+      sha256: "3bdd251dae9ffaef944450b73f168610db7e968e7b20daf0c3907f8b4aafc8a2"
       url: "https://pub.dev"
     source: hosted
-    version: "0.4.1+1"
+    version: "0.5.1+1"
   path_parsing:
     dependency: transitive
     description:
       name: path_parsing
-      sha256: "4e613c811d25f1533c0d05eb2755e21410247b8a13ac7f6cd23c0cecb2ff683d"
+      sha256: ee5c47c1058ad66b4a41746ec3996af9593d0858872807bcd64ac118f0700337
       url: "https://pub.dev"
     source: hosted
-    version: "0.1.4"
+    version: "0.2.1"
   path_provider:
     dependency: transitive
     description:
@@ -353,10 +353,10 @@ packages:
     dependency: transitive
     description:
       name: petitparser
-      sha256: "6802205ca621e6d2d2fc315d89491a685c33a16bf82875327aab0295afb3ec4f"
+      sha256: "49392a45ced973e8d94a85fdb21293fbb40ba805fc49f2965101ae748a3683b4"
       url: "https://pub.dev"
     source: hosted
-    version: "3.0.4"
+    version: "5.1.0"
   platform:
     dependency: transitive
     description:
@@ -542,10 +542,10 @@ packages:
     dependency: transitive
     description:
       name: xml
-      sha256: "2b3cb58e5a6b93b99b8d3591539a3ed8192f0e52c050ba92b6e472c916ce3d85"
+      sha256: "80d494c09849dc3f899d227a78c30c5b949b985ededf884cb3f3bcd39f4b447a"
       url: "https://pub.dev"
     source: hosted
-    version: "4.2.0"
+    version: "5.4.1"
 sdks:
   dart: ">=2.18.0 <3.0.0"
-  flutter: ">=1.20.0"
+  flutter: ">=1.24.0-7.0"
