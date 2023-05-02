@@ -32,7 +32,7 @@ dependencies:
   flutter_svg: ^0.23.0
   dio: ^5.0.0
   google_fonts: ^1.1.0
-  animated_text_kit: ^2.2.0
+  animated_text_kit: ^4.0.0
   responsive_widgets: ^2.0.1
   font_awesome_flutter: ^8.8.1
   velocity_x: ^0.5.0
