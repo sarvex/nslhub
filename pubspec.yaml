@@ -36,7 +36,7 @@ dependencies:
   responsive_widgets: ^2.0.1
   font_awesome_flutter: ^8.8.1
   velocity_x: ^0.4.1
-  easy_localization: ^2.3.3
+  easy_localization: ^3.0.0
   liquid_swipe: ^1.5.0
 
 dev_dependencies:
