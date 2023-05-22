@@ -35,7 +35,7 @@ dependencies:
   animated_text_kit: ^4.0.0
   responsive_widgets: ^2.0.1
   font_awesome_flutter: ^10.0.0
-  velocity_x: ^3.0.0
+  velocity_x: ^4.0.0
   easy_localization: ^3.0.0
   liquid_swipe: ^3.0.0
 
